@@ -1,0 +1,24 @@
+1. 상품 정하기
+
+상품 이름: 건망고
+
+카테고리: 식품
+
+2. 상품 이미지 찾기
+
+ 주소1 (올리브영)
+https://image.oliveyoung.co.kr/cfimages/cf-goods/uploads/images/thumbnails/10/0000/0020/A00000020250403ko.jpg?l=ko&QT=85&SF=webp&sharpen=1x0.5
+
+ 주소2 (담과연)
+https://damnyeon.com/data/item/1681867837/thumb-64yA7ZGc_66ed6rOg150g_600x600.jpg
+
+3. 참고 사이트 주소
+
+ 사이트1 (올리브영)
+https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000202504
+
+ 사이트2 (담과연)
+https://damnyeon.com/shop/item.php?it_id=1681867837
+
+ 사이트3 (다맘)
+http://www.davansa.com/shop/shopdetail.html?branduid=312
